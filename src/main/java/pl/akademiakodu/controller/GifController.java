@@ -30,8 +30,10 @@ modelMap.addAttribute("gifs",gifRepository.getAllGifs());
     @RequestMapping("/search")
     public String searchGif(@RequestParam String q, ModelMap modelMap){
         Gif gif = gifRepository.findByName(q);
-        if (gif == null)
-            return "redirect:/";
+        if (gif == null){
+            String error = "brak obrazka w bazie";
+            modelMap.put("comment",error);
+            return "home";}
         modelMap.put("gif",gif);
         return "gif-details";
     }

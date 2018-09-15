@@ -25,7 +25,8 @@
 <div class="gifs container">
     <p th:if="${comment}" th:text="${comment}"></p>
     <div class="row">
-
+        <div th:each="gif : ${gifs}" class="col s12 l4"><a th:href="@{'gif/' + ${gif.name}}"> <img
+                th:src="@{'/gifs/' + ${gif.name} + '.gif'}"> </a></div>
     </div>
 </div>
 

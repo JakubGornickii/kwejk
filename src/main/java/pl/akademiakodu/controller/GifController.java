@@ -39,9 +39,9 @@ modelMap.addAttribute("gifs",gifRepository.getAllGifs());
 
     @RequestMapping("/gif/{name}")
     public String gifDetails(@PathVariable String name, ModelMap modelMap){
-        System.out.println(name);
-        modelMap.put("gif",gifRepository.findByName(name));
-        return "favorites";
+        Gif gif = gifRepository.findByName(name);
+        modelMap.put("gif",gif);
+        return "gif-details";
     }
 
 }

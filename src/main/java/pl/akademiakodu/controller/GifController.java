@@ -23,7 +23,7 @@ GifRepository gifRepository;
 
     public String listGifs(ModelMap modelMap){
 modelMap.addAttribute("gifs",gifRepository.getAllGifs());
-        return "/home";
+        return "home";
 
     }
 

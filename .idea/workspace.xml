@@ -2,58 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32ae620b-3041-46a6-b2b2-c4b1b6237217" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/akademiakodu/AppConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/akademiakodu/controller/GifController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/akademiakodu/data/GifRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/akademiakodu/model/Gif.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/gifs/android-explosion.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/gifs/ben-and-mike.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/gifs/book-dominos.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/gifs/compiler-bot.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/gifs/cowboy-coder.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/gifs/infinite-andrew.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/icons/favorite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/icons/unfavorite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/jquery/jquery-1.11.3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/materialize/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/materialize/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/materialize/css/materialize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/materialize/css/materialize.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/materialize/font/material-design-icons/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/materialize/font/material-design-icons/Material-Design-Icons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/materialize/font/material-design-icons/Material-Design-Icons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/materialize/font/material-design-icons/Material-Design-Icons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/materialize/font/material-design-icons/Material-Design-Icons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/materialize/font/material-design-icons/Material-Design-Icons.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/materialize/font/roboto/Roboto-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/materialize/font/roboto/Roboto-Bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/materialize/font/roboto/Roboto-Bold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/materialize/font/roboto/Roboto-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/materialize/font/roboto/Roboto-Light.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/materialize/font/roboto/Roboto-Light.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/materialize/font/roboto/Roboto-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/materialize/font/roboto/Roboto-Medium.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/materialize/font/roboto/Roboto-Medium.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/materialize/font/roboto/Roboto-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/materialize/font/roboto/Roboto-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/materialize/font/roboto/Roboto-Regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/materialize/font/roboto/Roboto-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/materialize/font/roboto/Roboto-Thin.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/materialize/font/roboto/Roboto-Thin.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/materialize/js/materialize.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/materialize/js/materialize.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/categories.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/category.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/favorites.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/gif-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/akademiakodu/controller/GifController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/akademiakodu/controller/GifController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -82,8 +31,8 @@
       <file leaf-file-name="GifController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/akademiakodu/controller/GifController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="41" column="31" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+            <state relative-caret-position="119">
+              <caret line="35" column="29" lean-forward="true" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -117,8 +66,8 @@
       <file leaf-file-name="gif-details.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/gif-details.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="41" column="18" lean-forward="true" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+            <state relative-caret-position="782">
+              <caret line="46" column="39" lean-forward="true" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -184,11 +133,11 @@
         <option value="$PROJECT_DIR$/src/main/resources/templates/category.html" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/layout.html" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/favorites.html" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/gif-details.html" />
         <option value="$PROJECT_DIR$/src/main/java/pl/akademiakodu/model/Gif.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/akademiakodu/controller/GitController.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/akademiakodu/data/GifRepository.java" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/home.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/gif-details.html" />
         <option value="$PROJECT_DIR$/src/main/java/pl/akademiakodu/controller/GifController.java" />
       </list>
     </option>
@@ -407,7 +356,7 @@
       <option name="presentableId" value="Default" />
       <updated>1537000173314</updated>
       <workItem from="1537000205400" duration="797000" />
-      <workItem from="1537002989328" duration="15031000" />
+      <workItem from="1537002989328" duration="15794000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1537016819960</created>
@@ -430,11 +379,18 @@
       <option name="project" value="LOCAL" />
       <updated>1537021830542</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="first1">
+      <created>1537022204686</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1537022204686</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15828000" />
+    <option name="totallyTimeSpent" value="16591000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -447,6 +403,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="840" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5013423" side_tool="true" weight="0.32954547" />
@@ -467,9 +424,9 @@
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32954547" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.328125" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.328125" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32954547" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4986577" visible="true" weight="0.32954547" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4986577" weight="0.32954547" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
@@ -596,13 +553,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/gif-details.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="41" column="18" lean-forward="true" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/akademiakodu/data/GifRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -615,10 +565,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/gif-details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="39" lean-forward="true" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/akademiakodu/controller/GifController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="41" column="31" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+        <state relative-caret-position="119">
+          <caret line="35" column="29" lean-forward="true" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
